@@ -17,10 +17,10 @@ Technology Stack:
 1. Download repository
 2. Open
 3. "cd client" in terminal
-4. "npm run" in terminal
+4. "npm start" in terminal
 5. "cd .." to get to the root folder
 6. "cd server" in terminal
-7. 
+7. "npm nodemon start" in terminal
 
 
 
