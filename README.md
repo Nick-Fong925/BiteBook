@@ -3,6 +3,8 @@ The pandemic highlighted the challenges of restaurants as hundreds of small busi
 
 BiteBook seeks to help businesses that struggle with marketing by providing a platform for foodies, families, and friends to share restaurants and build a community around local eateries. The inspiration for BiteBook is the oldest form of marketing -word of mouth, instead of those restaurant names or pictures being lost in the family group chat, find them all in one place, BiteBook!
 
+![BitBookLogo](https://github.com/Nick-Fong925/BiteBook/assets/120824415/dd13ac14-73f7-47ff-860f-894f92a63ac9)
+
 Technology Stack: 
 
 - 💻 Front-end: React.js, Tailwind
@@ -10,6 +12,17 @@ Technology Stack:
 - 💻 Back-end: Express.js
 
 - 🧑🏻‍💻 Database: MongoDB
+
+🏁 How to start the application:
+
+1. Download repository
+2. Open
+3. "cd client" in terminal
+4. "npm run" in terminal
+5. "cd .." to get to the root folder
+6. "cd server" in terminal
+7. 
+
 
 
 
